@@ -1,1 +1,16 @@
 
+body {
+  background-image: url("imeges/haikei.jpg");
+}
+
+.center{
+  text-align: center;
+}
+
+.lb{
+  color: lightblue;
+}
+
+.size1{
+  text-size-adjust: 30;
+}
